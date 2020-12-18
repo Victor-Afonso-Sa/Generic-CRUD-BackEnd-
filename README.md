@@ -1,4 +1,5 @@
 # BACK-END GENERICO
+### (Desenvolvido por Victor Afonso)
 ## Instalação:
 ### Rode: `mvn clean install`
 ### Instalando via archetype Maven:
